@@ -5,9 +5,10 @@ public class Complex {
 
     public static Complex sum(Complex a, Complex b) {
         Complex c = new Complex();
-        c.re = a.re + b.re;
+        c.re = are + b.re;
         c.im = a.im + b.im;
         return c;
+        String text = "Привет, Ильнар!"
     }
 
 }
